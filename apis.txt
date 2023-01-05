@@ -1,0 +1,6 @@
+v3 key
+09dca7662d0a1cfeb2c11cffa70c83ad
+example
+https://api.themoviedb.org/3/movie/550?api_key=09dca7662d0a1cfeb2c11cffa70c83ad
+v4
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwOWRjYTc2NjJkMGExY2ZlYjJjMTFjZmZhNzBjODNhZCIsInN1YiI6IjYzYjUzMmNlNWFkNzZiMDBjZjQ0MTUwOCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.bqz9UAoMiIEhmAivtYbktqacrn274rqFQX9QOsvP7f4
